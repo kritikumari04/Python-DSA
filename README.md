@@ -6,7 +6,6 @@ Computer Science Student | Learning python & DSA |  Aspiring Software Engineer
 - Currently focusing on python + Data Structures & Algorithms for strong fundamentals  
 - Solving DSA problems daily and improving problem-solving skills  
 - Preparing for internships & software engineering roles
-- Projects coming soon 
 
 
 # Current Learning
@@ -16,7 +15,7 @@ Computer Science Student | Learning python & DSA |  Aspiring Software Engineer
 
 
 # Tech Stack
-- Language: Java  
+- Language: Python,Java  
  - Tools: Git, GitHub, VS Code  
 
 
