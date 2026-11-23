@@ -10,12 +10,12 @@ Computer Science Engineering Student | Python & Java | Backend Development | AI 
 
 
 # Tech Stack
-•Languages: Python, Java
-•Backend: Flask, REST APIs, Backend Logic
-•Databases: SQL, SQLite
-•AI: LLMs, Prompt Engineering, Agentic AI
-•Tools: Git, GitHub
-•Web: HTML, CSS
+-Languages: Python, Java
+-Backend: Flask, REST APIs, Backend Logic
+-Databases: SQL, SQLite
+-AI: LLMs, Prompt Engineering, Agentic AI
+-Tools: Git, GitHub
+-Web: HTML, CSS
 
 
 # Profiles
