@@ -9,14 +9,25 @@ Computer Science Engineering Student | Python & Java | Backend Development | AI 
 - Experienced in building practical applications and working on real-world technical problems.
 
 
-# Tech Stack
--Languages: Python, Java
--Backend: Flask, REST APIs, Backend Logic
--Databases: SQL, SQLite
--AI: LLMs, Prompt Engineering, Agentic AI
--Tools: Git, GitHub
--Web: HTML, CSS
+## Tech Stack
 
+### Programming Languages
+Python · Java
+
+### Backend Development
+Flask · REST APIs · Backend Logic
+
+### Databases
+SQL · SQLite
+
+### AI & LLMs
+LLMs · Prompt Engineering · Agentic AI
+
+### Tools
+Git · GitHub
+
+### Web Technologies
+HTML · CSS
 
 # Profiles
 - GitHub: https://github.com/kritikumari04
