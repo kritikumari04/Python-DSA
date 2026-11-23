@@ -8,11 +8,6 @@ Computer Science Engineering Student | Python & Java | Backend Development | AI 
 - Currently working as a Technical Intern at WeevilDrone, contributing to application development, backend workflows, database management, and AI-related projects.
 - Experienced in building practical applications and working on real-world technical problems.
 
-# Current Learning
-- OOPS,DBMS
-- Data Structures & Algorithms
-- Problem Solving (LeetCode)
-
 
 # Tech Stack
 •Languages: Python, Java
