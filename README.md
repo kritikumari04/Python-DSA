@@ -17,6 +17,15 @@ Computer Science Engineering Student | Python & Java | Backend Development | AI 
 # Tools: Git, GitHub
 # Web: HTML, CSS
 
+## Core CS Fundamentals
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Database Management Systems (DBMS)
+- Operating Systems (OS)
+- Computer Networks (CN)
+- Software Engineering
+
 # Profiles
 - GitHub: https://github.com/kritikumari04
 - LinkedIn: https://linkedin.com/in/kritikumari04
