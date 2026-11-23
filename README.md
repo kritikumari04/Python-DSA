@@ -1,12 +1,12 @@
 # Hi, I'm Kriti Kumari 
 
-Computer Science Student | Learning python & DSA |  Aspiring Software Engineer  
+Computer Science Engineering Student | Python & Java | Backend Development | AI & LLMs
 
 # About Me
-- Currently focusing on python + Data Structures & Algorithms for strong fundamentals  
-- Solving DSA problems daily and improving problem-solving skills  
-- Preparing for internships & software engineering roles
 
+- Computer Science Engineering student with hands-on experience in software development and backend systems.
+- Currently working as a Technical Intern at WeevilDrone, contributing to application development, backend workflows, database management, and AI-related projects.
+- Experienced in building practical applications and working on real-world technical problems.
 
 # Current Learning
 - OOPS,DBMS
@@ -15,8 +15,12 @@ Computer Science Student | Learning python & DSA |  Aspiring Software Engineer
 
 
 # Tech Stack
-- Language: Python,Java  
- - Tools: Git, GitHub, VS Code  
+•Languages: Python, Java
+•Backend: Flask, REST APIs, Backend Logic
+•Databases: SQL, SQLite
+•AI: LLMs, Prompt Engineering, Agentic AI
+•Tools: Git, GitHub
+•Web: HTML, CSS
 
 
 # Profiles
